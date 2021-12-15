@@ -4,7 +4,7 @@ OWNER_IDS = [879416069440303196]
 
 # BASIC THINGS
 
-BOT_NAME = "Death-Alman"
+BOT_NAME = "Death-Fun"
 DEFAULT_PREFIX = ["a!"]
 DEFAULT_EMBEDCOLOUR = 0x41A13A
 DEFAULT_BUTTONCOLOUR = "green"  # green, red, blue, grey
